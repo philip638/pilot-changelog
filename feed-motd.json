@@ -1,10 +1,22 @@
 {
   "schema_version": 1,
-  "latest_entry_date": "2026-07-03",
+  "latest_entry_date": "2026-07-06",
   "window": "scope:motd",
   "include_private": false,
-  "count": 8,
+  "count": 9,
   "entries": [
+    {
+      "id": "2026-07-06-motd-new-on-the-pilot-app-store-smol-cloud-push-a-vm-live-in-o",
+      "date": "2026-07-06",
+      "scope": "motd",
+      "visibility": "public",
+      "title": "New on the Pilot app store: Smol Cloud — push a VM live in one command, $5 free credit; and AgentPhone — a real phone number for agent calls & SMS. pilotctl appstore catalogue.",
+      "flagged": false,
+      "links": [],
+      "ids": [],
+      "body": "Message-of-the-day banner active on 2026-07-06 (UTC). The title above is shown verbatim by pilotctl.",
+      "excerpt": "Message-of-the-day banner active on 2026-07-06 (UTC). The title above is shown verbatim by pilotctl."
+    },
     {
       "id": "2026-07-03-motd-new-on-the-pilot-app-store-cosift-for-keyword-semantic-an",
       "date": "2026-07-03",
